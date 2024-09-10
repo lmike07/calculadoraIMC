@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--  Cores customizadas -->
+
+    <color name="fundo">#0096c7</color>
+    <color name="primaria">#0077b6</color>
+    <color name="primaria_variacao">#023e8a</color>
+</resources>
